@@ -1,1 +1,1 @@
-# Movie-search-bot
+BOT_TOKEN = "8646870110:AAF-34DIRLWo6gnzgWScedLSAE4U43Z6Ko0"
